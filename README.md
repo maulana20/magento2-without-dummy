@@ -31,5 +31,7 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 - Xampp-control.exe run as Administrator
 - `$ php bin/magento module:disable Magento_TwoFactorAuth`
 
+<a href="REQUIREMENT.md">Requirement</a>
+
 ### Tutorial
-- Simple [hello word](https://github.com/maulana20/magento2-without-dummy/blob/master/Tutorial-1.md) module.
+- Simple <a href="Tutorial-1.md">hello word</a> module.

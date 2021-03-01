@@ -3,16 +3,17 @@
 ## Getting Started
 
 ### Directory File : [tutorial](https://www.mageplaza.com/magento-2-module-development/)
+`note : `directory``
 ```bash
-- ${bold}app${normal}
-  - code
-    - Mageplaza
-      - HelloWord
-        - Controller
-          - Index
+- `app`
+  - `code`
+    - `Mageplaza`
+      - `HelloWord`
+        - `Controller`
+          - `Index`
             - Test.php
-        - etc
-          - frontend
+        - `etc`
+          - `frontend`
             - routes.xml
           - module.xml
         - registration.php
