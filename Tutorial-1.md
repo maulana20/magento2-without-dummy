@@ -4,15 +4,15 @@
 
 ### Directory File : [tutorial](https://www.mageplaza.com/magento-2-module-development/)
 ```bash
-- `app`
-  - `code`
-    - `Mageplaza`
-      - `HelloWord`
-        - `Controller`
-          - `Index`
+- ${bold}app${normal}
+  - code
+    - Mageplaza
+      - HelloWord
+        - Controller
+          - Index
             - Test.php
-        - `etc`
-          - `frontend`
+        - etc
+          - frontend
             - routes.xml
           - module.xml
         - registration.php
