@@ -3,7 +3,7 @@
 ## Getting Started
 
 ### Directory File : [tutorial](https://www.mageplaza.com/magento-2-module-development/)
-`note : `directory``
+`note : `  `` as directory
 ```bash
 - `app`
   - `code`
@@ -26,4 +26,4 @@
 
 `note : generate in frontend`
 - `$ php bin/magento setup:upgrade`
-- `$ php bin/magento setup:static-content:deploy` [optional]
+- `$ php bin/magento setup:static-content:deploy`
