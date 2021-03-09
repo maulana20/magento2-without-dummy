@@ -1,4 +1,4 @@
-# Create Schema Model
+# CRUD Models
 
 ## Getting Started
 
@@ -16,14 +16,6 @@
           - `frontend`
             - routes.xml
           - module.xml
-        - `view`
-          - `frontend`
-            - `layout`
-              - helloword_index_index.xml
-            - `templates`
-              - index.phtml
-        - `Block`
-          - Index.php
         - `Setup`
           - InstallSchema.php
           - UpgradeSchema.php
@@ -43,4 +35,3 @@ Compile :
 - `$ php bin/magento setup:upgrade`
 - `$ php bin/magento setup:di:compile`
 - `$ php bin/magento setup:static-content:deploy`
-- flush magento cache `admin >> system >> cache management` [optional]

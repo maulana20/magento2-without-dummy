@@ -1,4 +1,4 @@
-# Create Controller View
+# How to Create Controller
 
 ## Getting Started
 

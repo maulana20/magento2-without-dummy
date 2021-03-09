@@ -1,4 +1,4 @@
-# Simple Hello Word Module
+# How to Create Module
 
 ## Getting Started
 

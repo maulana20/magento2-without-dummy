@@ -34,6 +34,6 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 <a href="REQUIREMENT.md">Requirement</a>
 
 ### Tutorial
-- Simple <a href="Tutorial-1.md">hello word</a> module.
-- Create <a href="Tutorial-2.md">controller view</a>.
-- Create <a href="Tutorial-3.md">schema model</a>.
+- <a href="Tutorial-1.md">How to Create Module</a>.
+- <a href="Tutorial-2.md">How to Create Controller</a>.
+- <a href="Tutorial-3.md">CRUD Models</a>.
