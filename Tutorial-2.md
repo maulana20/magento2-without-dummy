@@ -28,9 +28,3 @@
 ```
 
 Flush Magento Cache in `admin >> system >> cache management`
-
-`note : if after flush magento blank, please run in bellow`
-
-- `$ php bin/magento setup:upgrade`
-- `$ php bin/magento setup:static-content:deploy`
-- flush magento cache again

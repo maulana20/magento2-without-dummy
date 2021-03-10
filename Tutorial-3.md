@@ -30,8 +30,11 @@
 
 Compile : 
 
-`note : in case \Mageplaza\HelloWorld\Model\PostFactory will automatically generate the Factory class in the var/generation after run command php bin\magento setup:di:compile, In module.xml file, we changed the attribute to 1.1.0 greater than setup_version`
-
 - `$ php bin/magento setup:upgrade`
-- `$ php bin/magento setup:di:compile`
 - `$ php bin/magento setup:static-content:deploy`
+
+Note :
+
+- In case `\Mageplaza\HelloWorld\Model\PostFactory` will automatically generate the Factory class in the `var/generation`
+- In `module.xml` file, we changed the attribute to 1.1.0 greater than `setup_version`
+
