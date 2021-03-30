@@ -9,6 +9,11 @@
   - `code`
     - `Mageplaza`
       - `HelloWord`
+        - `Controller`
+          - `Index`
+            - Config.php
+        - `Helper`
+          - Data.php
         - `etc`
           - `adminhtml`
             - system.xml
@@ -20,3 +25,6 @@
 Compile : 
 
 Flush Magento Cache in `admin >> system >> cache management`
+
+- `$ php bin/magento setup:upgrade`
+- `$ php bin/magento setup:static-content:deploy`
