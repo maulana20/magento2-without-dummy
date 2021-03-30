@@ -15,6 +15,8 @@
         - `Helper`
           - Data.php
         - `etc`
+          - `frontend`
+            - routes.xml
           - `adminhtml`
             - system.xml
           - module.xml
