@@ -42,3 +42,4 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 - <a href="Tutorial-6.md">Create Admin Menu</a>.
 - <a href="Tutorial-7.md">Create Admin Menu, ACL, and Grid</a>.
 - <a href="Tutorial-8.md">Create Setup, Upgrade, Uninstall Script</a>.
+- <a href="Tutorial-9.md">Events</a>.

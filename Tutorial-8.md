@@ -28,5 +28,7 @@
 
 Compile : 
 
-- `$ php bin/magento setup:upgrade`
+- `$ php bin/magento setup:upgrade` => `upgrade schema and data` *version must up and same in both*
 - `$ php bin/magento setup:static-content:deploy`
+
+note : `install schema and data` in `php bin/magento setup:install` be at the beginning later
