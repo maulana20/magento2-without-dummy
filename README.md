@@ -44,6 +44,7 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 - <a href="Tutorial-8.md">Create Setup, Upgrade, Uninstall Script</a>.
 - <a href="Tutorial-9.md">Events</a>.
 - <a href="Tutorial-10.md">Plugin - Interceptor</a>.
+- <a href="Tutorial-11.md">Indexing & Reindex</a>.
 
 ### Uninstall
 - `$ php bin\magento setup:uninstall`
