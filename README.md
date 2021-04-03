@@ -22,8 +22,8 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 
 #### Compile : [issue](https://community.magento.com/t5/Magento-2-x-Admin-Configuration/Magento-2-admin-page-load-but-login-window-is-not-show/m-p/49518#M822)
 `note : for compile frontend`
-- `$ php bin\magento setup:upgrade`
 - `$ php bin\magento setup:di:compile`
+- `$ php bin\magento setup:upgrade`
 - `$ php bin\magento setup:static-content:deploy`
 
 ### Issue
@@ -43,3 +43,7 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 - <a href="Tutorial-7.md">Create Admin Menu, ACL, and Grid</a>.
 - <a href="Tutorial-8.md">Create Setup, Upgrade, Uninstall Script</a>.
 - <a href="Tutorial-9.md">Events</a>.
+- <a href="Tutorial-10.md">Plugin - Interceptor</a>.
+
+### Uninstall
+- `$ php bin\magento setup:uninstall`
