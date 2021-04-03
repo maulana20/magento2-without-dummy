@@ -28,6 +28,13 @@ Composer version 1.10.13 2020-09-09 11:46:34
 }
 ```
 
+### JAVA
+```bash
+openjdk 15.0.1 2020-10-20
+OpenJDK Runtime Environment AdoptOpenJDK (build 15.0.1+9)
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 15.0.1+9, mixed mode, sharing)
+```
+
 ### XAMPP
 ```bash
 XAMPP for Windows 7.4.10
@@ -96,4 +103,9 @@ zlib
 #### MARIA DB
 ```bash
 mysqld  Ver 10.4.14-MariaDB for Win64 on AMD64 (mariadb.org binary distribution)
+```
+
+#### Node
+```bash
+v12.19.0
 ```
