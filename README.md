@@ -46,6 +46,7 @@ Install Magento CE Ver. 2.4.1 2020-09-25-04-08-02 in Windows XAMPP PHP 7.4
 - <a href="Tutorial-10.md">Plugin - Interceptor</a>.
 - <a href="Tutorial-11.md">Indexing & Reindex</a>.
 - <a href="Tutorial-12.md">Routing</a>.
+- <a href="Tutorial-13.md">How to Add Command line in to Console CLI</a>.
 
 ### Uninstall
 - `$ php bin\magento setup:uninstall`

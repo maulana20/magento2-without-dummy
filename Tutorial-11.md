@@ -21,4 +21,4 @@
 
 Compile : 
 
-Flush Magento Cache in `admin >> system >> cache management` or `php bin\magento cache:flush`
+Flush Magento Cache in `admin >> system >> cache management` or `php bin\magento cache:flush config`
